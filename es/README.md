@@ -207,6 +207,22 @@ Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para pautas detalladas.
 
 ---
 
+## ☕ Apoya Este Proyecto
+
+**¿Tomamos un Café y Programamos?**
+
+Si este proyecto te resulta útil y quieres apoyar la producción continua de contenido, ¡considera invitarme un café! Tu apoyo ayuda a mantener este hub actualizado y en crecimiento.
+
+<div align="center">
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Ap%C3%B3yame-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lucsantosdev)
+
+💝 **Apoyo Mensual Disponible** - ¡Ayúdame a crear más contenido de calidad convirtiéndote en un patrocinador mensual en Ko-fi!
+
+</div>
+
+---
+
 ## 📜 Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](../LICENSE) para más detalles.

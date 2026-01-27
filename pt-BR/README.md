@@ -207,6 +207,32 @@ Veja [CONTRIBUTING.md](CONTRIBUTING.md) para diretrizes detalhadas.
 
 ---
 
+## ☕ Apoie Este Projeto
+
+**Vamos Tomar um Café e Codar?**
+
+Se você acha este projeto útil e quer apoiar a produção contínua de conteúdo, considere me pagar um café! Seu apoio ajuda a manter este hub atualizado e crescendo.
+
+<div align="center">
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Me%20Apoie-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lucsantosdev)
+
+💝 **Apoio Mensal Disponível** - Ajude-me a criar mais conteúdo de qualidade tornando-se um apoiador mensal no Ko-fi!
+
+### 💚 PIX (Brasil)
+
+**CNPJ:** `62.874.708/0001-29`
+
+```
+62.874.708/0001-29
+```
+
+<sub>Clique no código acima para selecionar e copiar facilmente</sub>
+
+</div>
+
+---
+
 ## 📜 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](../LICENSE) para detalhes.
