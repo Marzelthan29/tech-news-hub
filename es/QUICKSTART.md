@@ -121,7 +121,7 @@ Tech News Hub es tu portal curado para mantenerte actualizado en el acelerado mu
 ---
 
 **¿Preguntas? ¿Ideas? ¿Comentarios?**
-¡Abre un [issue](https://github.com/yourusername/tech-news-hub/issues) o inicia una [discusión](https://github.com/yourusername/tech-news-hub/discussions)!
+¡Abre un [issue](https://github.com/lucsantosdev/tech-news-hub/issues) o inicia una [discusión](https://github.com/lucsantosdev/tech-news-hub/discussions)!
 
 ---
 

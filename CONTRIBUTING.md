@@ -21,7 +21,7 @@ Thank you for your interest in contributing to Tech News Hub! This repository th
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/yourusername/tech-news-hub.git
+   git clone https://github.com/lucsantosdev/tech-news-hub.git
    cd tech-news-hub
    ```
 
@@ -225,8 +225,8 @@ We are committed to providing a welcoming and inclusive experience for everyone.
 
 ## 💬 Questions?
 
-- Open an [issue](https://github.com/yourusername/tech-news-hub/issues)
-- Start a [discussion](https://github.com/yourusername/tech-news-hub/discussions)
+- Open an [issue](https://github.com/lucsantosdev/tech-news-hub/issues)
+- Start a [discussion](https://github.com/lucsantosdev/tech-news-hub/discussions)
 - Reach out to maintainers
 
 ---

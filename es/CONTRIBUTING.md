@@ -21,7 +21,7 @@
 
 1. **Haz Fork del Repositorio**
    ```bash
-   git clone https://github.com/yourusername/tech-news-hub.git
+   git clone https://github.com/lucsantosdev/tech-news-hub.git
    cd tech-news-hub
    ```
 
@@ -173,8 +173,8 @@ Estamos comprometidos a proporcionar una experiencia acogedora e inclusiva para 
 
 ## 💬 ¿Preguntas?
 
-- Abre un [issue](https://github.com/yourusername/tech-news-hub/issues)
-- Inicia una [discusión](https://github.com/yourusername/tech-news-hub/discussions)
+- Abre un [issue](https://github.com/lucsantosdev/tech-news-hub/issues)
+- Inicia una [discusión](https://github.com/lucsantosdev/tech-news-hub/discussions)
 - Contacta a los mantenedores
 
 ---

@@ -2,10 +2,10 @@
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/tech-news-hub?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/tech-news-hub?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/tech-news-hub?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/tech-news-hub)
+![GitHub stars](https://img.shields.io/github/stars/lucsantosdev/tech-news-hub?style=social)
+![GitHub forks](https://img.shields.io/github/forks/lucsantosdev/tech-news-hub?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/lucsantosdev/tech-news-hub?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/lucsantosdev/tech-news-hub)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ### 🌍 Languages / Idiomas / Línguas

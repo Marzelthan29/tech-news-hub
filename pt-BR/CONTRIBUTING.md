@@ -21,7 +21,7 @@ Obrigado pelo seu interesse em contribuir para o Tech News Hub! Este repositóri
 
 1. **Faça Fork do Repositório**
    ```bash
-   git clone https://github.com/yourusername/tech-news-hub.git
+   git clone https://github.com/lucsantosdev/tech-news-hub.git
    cd tech-news-hub
    ```
 
@@ -173,8 +173,8 @@ Estamos comprometidos em fornecer uma experiência acolhedora e inclusiva para t
 
 ## 💬 Dúvidas?
 
-- Abra uma [issue](https://github.com/yourusername/tech-news-hub/issues)
-- Inicie uma [discussão](https://github.com/yourusername/tech-news-hub/discussions)
+- Abra uma [issue](https://github.com/lucsantosdev/tech-news-hub/issues)
+- Inicie uma [discussão](https://github.com/lucsantosdev/tech-news-hub/discussions)
 - Entre em contato com os mantenedores
 
 ---

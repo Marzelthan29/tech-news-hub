@@ -239,7 +239,7 @@ Found an amazing source we're missing? [Contribute!](CONTRIBUTING.md)
 ---
 
 **Questions? Ideas? Feedback?**
-Open an [issue](https://github.com/yourusername/tech-news-hub/issues) or start a [discussion](https://github.com/yourusername/tech-news-hub/discussions)!
+Open an [issue](https://github.com/lucsantosdev/tech-news-hub/issues) or start a [discussion](https://github.com/lucsantosdev/tech-news-hub/discussions)!
 
 ---
 
