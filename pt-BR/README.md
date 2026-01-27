@@ -221,13 +221,13 @@ Se você acha este projeto útil e quer apoiar a produção contínua de conteú
 
 ### 💚 PIX (Brasil)
 
-**CNPJ:** `62.874.708/0001-29`
+**E-mail:** `lucsantosdev@gmail.com`
 
 ```
-62.874.708/0001-29
+lucsantosdev@gmail.com
 ```
 
-<sub>Clique no código acima para selecionar e copiar facilmente</sub>
+<sub>Clique no e-mail acima para selecionar e copiar facilmente</sub>
 
 </div>
 
