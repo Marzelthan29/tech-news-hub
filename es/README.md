@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Tech News Hub Banner](../assets/banner.png)
+
 ![GitHub stars](https://img.shields.io/github/stars/lucsantosdev/tech-news-hub?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/lucsantosdev/tech-news-hub?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/lucsantosdev/tech-news-hub?style=social)
