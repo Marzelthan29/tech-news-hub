@@ -2,6 +2,8 @@
 
 > New to Tech News Hub? Start here to make the most of this resource!
 
+[🇺🇸 English](QUICKSTART.md) • [🇧🇷 Português](pt-BR/QUICKSTART.md) • [🇪🇸 Español](es/QUICKSTART.md)
+
 [← Back to Home](README.md)
 
 ---

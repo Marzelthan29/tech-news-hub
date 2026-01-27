@@ -2,6 +2,8 @@
 
 Thank you for your interest in contributing to Tech News Hub! This repository thrives on community contributions.
 
+[🇺🇸 English](CONTRIBUTING.md) • [🇧🇷 Português](pt-BR/CONTRIBUTING.md) • [🇪🇸 Español](es/CONTRIBUTING.md)
+
 ---
 
 ## 📋 Table of Contents

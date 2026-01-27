@@ -8,6 +8,11 @@
 ![Last Commit](https://img.shields.io/github/last-commit/yourusername/tech-news-hub)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+### 🌍 Languages / Idiomas / Línguas
+[🇺🇸 English](README.md) • [🇧🇷 Português](pt-BR/README.md) • [🇪🇸 Español](es/README.md)
+
+---
+
 **Your One-Stop Hub for Tech News, Articles, and Industry Updates** 📰
 
 *Stay ahead of the curve with curated sources across all major tech domains*
